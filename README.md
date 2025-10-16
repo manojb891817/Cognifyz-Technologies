@@ -21,8 +21,10 @@ Interactive Streamlit dashboards are built to make the analysis more intuitive a
 | **Level 1 - Task 1** | **Top Cuisines Analysis** | Identify top 3 most common cuisines and calculate percentage share. | Python, Pandas, Matplotlib, Streamlit |
 | **Level 1 - Task 2** | **City Analysis** | Determine the city with most restaurants and highest average rating. | Pandas, Streamlit Charts |
 | **Level 1 - Task 3** | **Price Range Distribution** | Visualize restaurant distribution by price range and compute percentages. | Matplotlib, Seaborn, Streamlit |
+| **Level 2** | **Task 1**| Geographic restaurant mapping (using Folium) |
+| **Level 2**| **Task 2**| Identify restaurant chains and analyze popularity |
 | **Level 2 - Task 3** | **Restaurant Location Map** | Display restaurant locations on an **interactive Folium map** with clustering and color-coded ratings. | Folium, Streamlit-Folium, Pandas |
-| **Level 2 - Task 4** | **Restaurant Chains Analysis** | Identify and analyze restaurant chains across multiple cities, comparing performance, ratings, and votes. | Streamlit, Pandas, Matplotlib, Plotly, Seaborn |
+| **Level 2 - Task 4** | **Restaurant Chains Analysis** | Identify and analyze restaurant chains across multiple cities, comparing performance, ratings, and votes. | Streamlit, Pandas, Matplotlib, Plotly, Seaborn 
 
 ---
 
